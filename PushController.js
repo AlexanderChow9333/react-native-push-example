@@ -42,7 +42,7 @@ export default class PushController extends Component {
       },
 
       // ANDROID ONLY: GCM or FCM Sender ID (product_number) (optional - not required for local notifications, but is need to receive remote push notifications)
-      senderID: "1090501687137",
+      senderID: "667320672119",
 
       // IOS ONLY (optional): default: all - Permissions to register.
       permissions: {
